@@ -1,9 +1,11 @@
-###  👋 Olá me chamo Nelson Benedito! 
-_Estudante de Tecnologia em Sistemas para Internet e Ciência de Dados._
+### <p align="center">👋 Olá me chamo Nelson Benedito!</p>
+<p align="center"><i>Estudante de Tecnologia em Sistemas para Internet e Ciência de Dados.<i></p>
 
-##
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+### <img align="center" height="50" width="50" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005198289395789996/trophy_1f3c6.png"> Troféus
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NelsonBenedito&theme=onestar&no-frame=true&no-bg=true&column=-1" alt="NelsonBenedito" /></a> </p>
 
@@ -14,7 +16,8 @@ _Estudante de Tecnologia em Sistemas para Internet e Ciência de Dados._
 </div>
 
 ##
-   
+    
+ ### <img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005196939991732335/wrench_1f527.png"> Ferramentas e Linguagens <img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005197840533946458/desktop-computer_1f5a5-fe0f.png">
     
  <div style="display:inline-block">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
