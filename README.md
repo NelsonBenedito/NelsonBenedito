@@ -5,10 +5,6 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### <img align="center" height="50" width="50" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005198289395789996/trophy_1f3c6.png"> Troféus
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NelsonBenedito&theme=onestar&no-frame=true&no-bg=true&column=-1" alt="NelsonBenedito" /></a> </p>
-
 <div >
     <a  href="https://github.com/NelsonBenedito">
         <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NelsonBenedito&show_icons=true&hide_border=true&theme=dark&count_private=true&bg_color=272b33" alt="">
