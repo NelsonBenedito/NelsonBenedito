@@ -38,3 +38,5 @@
     
     
 ⚡ Fato Curioso: **O código de Matrix veio de receitas de sushi**
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
