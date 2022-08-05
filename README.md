@@ -1,4 +1,4 @@
-###  👋 Olá me chamo Nelson Benedito, estudante de Tecnologia em Sistemas para Internet e Ciência de Dados.
+###  👋 Olá me chamo Nelson Benedito!
  
  <div >
     <a  href="https://github.com/NelsonBenedito">
