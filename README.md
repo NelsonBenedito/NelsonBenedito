@@ -28,7 +28,10 @@ _Estudante de Tecnologia em Sistemas para Internet e Ciência de Dados._
 ##
      
  <div>
-    <img href="mailto:nelsonbenejm@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nelsonbenejm@gmail.com">
+     <a href = "mailto:nelsonbenejm@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nelsonbenejm@gmail.com">
+     <a>
 </div>
+    
     
 ⚡ Fato Curioso: **O código de Matrix veio de receitas de sushi**
