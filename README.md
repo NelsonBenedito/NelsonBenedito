@@ -1,5 +1,5 @@
 ### <p align="center">👋 Olá me chamo Nelson Benedito!</p>
-<p align="center"><i>Estudante de Tecnologia em Sistemas para Internet e Ciência de Dados.<i></p>
+<p align="center"><i>Estudante de Tecnologia em Sistemas para Internet<i></p>
 
 ##
 
