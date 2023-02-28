@@ -7,7 +7,7 @@
 
 <div >
     <a  href="https://github.com/NelsonBenedito">
-        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?NelsonBenedito=anuraghazra&count_private=true" alt="">
+        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?NelsonBenedito&count_private=true" alt="">
         <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonBenedito&show_icons=true&theme=dark&hide_border=true&bg_color=272b33" alt="">
 </div>
 
