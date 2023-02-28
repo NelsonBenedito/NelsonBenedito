@@ -13,7 +13,7 @@
 
 ##
     
- ### <img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005196939991732335/wrench_1f527.png"> Ferramentas e Linguagens <img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/1005196801944604735/1005197840533946458/desktop-computer_1f5a5-fe0f.png">
+ ### <img align="center" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/google/350/desktop-computer_1f5a5-fe0f.png"> Ferramentas e Linguagens <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/microsoft-teams/337/hammer-and-wrench_1f6e0-fe0f.png">
     
  <div style="display:inline-block">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
