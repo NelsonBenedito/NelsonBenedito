@@ -36,7 +36,7 @@
      <a href="https://steamcommunity.com/profiles/76561198334797169">
      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
      <a>
-      <a href="https://www.instagram.com/nelsonbenejm/">
+      <a href="https://www.instagram.com/NelsonBene/">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
      <a>
 </div>
