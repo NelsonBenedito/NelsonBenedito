@@ -42,5 +42,5 @@
 </div>
     
     
-⚡ Fato Curioso: **O código de Matrix na verdade são receitas de sushi**
+⚡ **Fato Curioso:** O código de Matrix na verdade são receitas de sushi
 
