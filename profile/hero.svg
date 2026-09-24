@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="760" y1="40" x2="1120" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <filter id="blur" x="-100" y="-100" width="1400" height="500" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1010" cy="65" r="120" fill="#2563EB" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="1120" cy="250" r="100" fill="#06B6D4" opacity="0.12" filter="url(#blur)"/>
+
+  <path d="M0 245C180 205 250 290 440 250C620 212 670 120 820 142C980 166 1060 218 1200 178" stroke="url(#accent)" stroke-width="2" opacity="0.45"/>
+  <path d="M0 258C190 218 260 300 455 263C625 230 685 142 825 160C970 179 1070 230 1200 194" stroke="#38BDF8" stroke-width="1" opacity="0.16"/>
+
+  <g opacity="0.18" fill="#94A3B8">
+    <circle cx="730" cy="64" r="2"/><circle cx="760" cy="88" r="2"/><circle cx="790" cy="52" r="2"/>
+    <circle cx="820" cy="82" r="2"/><circle cx="850" cy="48" r="2"/><circle cx="880" cy="74" r="2"/>
+    <circle cx="910" cy="50" r="2"/><circle cx="940" cy="88" r="2"/>
+  </g>
+
+  <text x="72" y="105" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">NELSON BENEDITO</text>
+  <text x="72" y="157" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="700">Front-End Developer</text>
+  <text x="72" y="191" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Tecnologia • Design • Produtos Digitais</text>
+
+  <g transform="translate(930 105)">
+    <rect width="170" height="92" rx="18" fill="#0F172A" stroke="#334155"/>
+    <text x="20" y="34" fill="#64748B" font-family="monospace" font-size="12">&lt;/&gt;</text>
+    <text x="20" y="63" fill="#E2E8F0" font-family="monospace" font-size="18" font-weight="700">build()</text>
+    <circle cx="133" cy="28" r="5" fill="#38BDF8"/>
+  </g>
+
+  <rect x="72" y="222" width="210" height="2" rx="1" fill="url(#accent)" opacity="0.8"/>
+</svg>
