@@ -213,8 +213,7 @@ Se você chegou até aqui, provavelmente temos algum interesse em comum.
   <img src="https://img.shields.io/badge/GitHub-NelsonBenedito-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<!-- Substitua os links abaixo pelos seus perfis -->
-<a href="SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/nelson-bene/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
