@@ -1,6 +1,28 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Nelson Benedito
+<a href="https://github.com/NelsonBenedito">
+  <img src="./profile/hero.svg" alt="Nelson Benedito — Front-End Developer" width="100%">
+</a>
+
+<br>
+
+<a href="https://github.com/NelsonBenedito?tab=followers">
+  <img src="https://img.shields.io/github/followers/NelsonBenedito?style=flat-square&label=Seguidores&labelColor=0f172a&color=38bdf8" alt="Seguidores">
+</a>
+<a href="https://github.com/NelsonBenedito?tab=repositories">
+  <img src="https://img.shields.io/github/stars/NelsonBenedito?style=flat-square&label=Stars&labelColor=0f172a&color=818cf8" alt="Stars">
+</a>
+<a href="https://github.com/NelsonBenedito">
+  <img src="https://img.shields.io/badge/Open%20to%20projects-38BDF8?style=flat-square&labelColor=0f172a" alt="Open to projects">
+</a>
+
+</div>
+
+<br>
+
+Eu transformo ideias em interfaces e soluções digitais.
+
+Desenvolvedor Front-End com formação em Sistemas para Internet e uma trajetória que combina código, design e criatividade.
 
 ### 💻 Front-End Developer • 🎓 Tecnólogo em Sistemas para Internet
 
