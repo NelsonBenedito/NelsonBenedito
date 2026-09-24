@@ -30,3 +30,6 @@ Além da programação, também tenho experiência com **design gráfico, ediç�
 🧠 Resolução de Problemas
 🚀 Produtos Digitais
 📚 Aprendizado Contínuo
+```
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NelsonBenedito&theme=midnight-purple" alt="GitHub Streak" /></a>
