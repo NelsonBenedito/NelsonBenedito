@@ -1,52 +1,32 @@
-### <p align="center">👋 Olá me chamo Nelson Benedito!</p>
-<p align="center"><i> Front End - TSI <i></p>
+<div align="center">
 
-##
+# 👋 Olá! Eu sou Nelson Benedito
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### 💻 Front-End Developer • 🎓 Tecnólogo em Sistemas para Internet
 
-<div >
-    <a  href="https://github.com/NelsonBenedito">
-        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NelsonBenedito&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="">
-        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonBenedito&show_icons=true&theme=dark&hide_border=true" alt="">
+**Transformando ideias em interfaces, experiências e soluções digitais.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-NelsonBenedito-181717?style=for-the-badge&logo=github)](https://github.com/NelsonBenedito)
+
 </div>
 
-##
-    
- ### <img align="center" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/google/350/desktop-computer_1f5a5-fe0f.png"> Ferramentas e Linguagens <img align="center" height="30" width="30" src="https://em-content.zobj.net/source/microsoft-teams/337/hammer-and-wrench_1f6e0-fe0f.png">
-    
- <div style="display:inline-block">
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img align="center" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
- 
-##
-     
- <div>
-     <a target = "_blank" href = "mailto:nelsonbenejm@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nelsonbenejm@gmail.com">
-     <a>
-     <a target = "_blank" href="https://t.me/NelsonBene">
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-     <a>
-     <a target = "_blank" href="https://steamcommunity.com/profiles/76561198334797169">
-     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-     <a>
-      <a target = "_blank" href="https://www.instagram.com/nelsonbenejm/">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-     <a>
-</div>
-    
-    
-⚡ **Fato Curioso:** O código de Matrix na verdade são receitas de sushi
+---
 
+## 🚀 Sobre mim
+
+Sou **Tecnólogo em Sistemas para Internet**, formado em 2026, com foco em **Desenvolvimento Front-End**.
+
+Minha trajetória combina tecnologia, desenvolvimento web e criatividade. Gosto de transformar ideias em produtos digitais que sejam não apenas funcionais, mas também intuitivos e visualmente bem construídos.
+
+Durante minha experiência profissional, tive contato com **desenvolvimento de aplicações web, software sob demanda, modelagem e reengenharia de software, tratamento de dados para IA e metodologias ágeis**.
+
+Além da programação, também tenho experiência com **design gráfico, edição de vídeo e criação de conteúdo digital**, o que me permite enxergar projetos tanto pelo lado técnico quanto pelo lado visual.
+
+```text
+💻 Desenvolvimento Web
+🎨 Design & Experiência Visual
+🧠 Resolução de Problemas
+🚀 Produtos Digitais
+📚 Aprendizado Contínuo
